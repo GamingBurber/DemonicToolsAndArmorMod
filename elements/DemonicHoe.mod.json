@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "demonichoe",
+    "customModelName": "Normal",
+    "name": "Demonic Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DemonicSwordItems"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 5,
+    "efficiency": 30.0,
+    "attackSpeed": 3.0,
+    "enchantability": 30,
+    "damageVsEntity": 3.0,
+    "usageCount": 100000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

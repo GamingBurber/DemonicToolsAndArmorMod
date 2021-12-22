@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 10.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:DemonicNetherOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:DemonicIngot"
+    },
+    "name": "demonic_ingot_recipie",
+    "namespace": "mod"
+  }
+}

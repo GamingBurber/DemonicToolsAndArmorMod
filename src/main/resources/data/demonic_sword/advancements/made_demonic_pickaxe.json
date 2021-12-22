@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "demonic_sword:demonic_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.made_demonic_pickaxe.title"
+    },
+    "description": {
+      "translate": "advancements.made_demonic_pickaxe.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "made_demonic_pickaxe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "demonic_sword:demonic_pickaxe",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "demonic_sword:from_the_depths"
+}

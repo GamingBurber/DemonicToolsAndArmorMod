@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "demonic_sword:blocks/cock_v2_da_demonicnertherore",
+    "up": "demonic_sword:blocks/cock_v2_da_demonicnertherore",
+    "north": "demonic_sword:blocks/cock_v2_da_demonicnertherore",
+    "east": "demonic_sword:blocks/cock_v2_da_demonicnertherore",
+    "south": "demonic_sword:blocks/cock_v2_da_demonicnertherore",
+    "west": "demonic_sword:blocks/cock_v2_da_demonicnertherore",
+    "particle": "demonic_sword:blocks/cock_v2_da_demonicnertherore"
+  }
+}

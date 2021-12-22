@@ -1,0 +1,74 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "demonic_hat",
+    "enableBody": true,
+    "textureBody": "demonic_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "demonicleggings",
+    "enableBoots": true,
+    "textureBoots": "demonic_boots",
+    "onHelmetTick": {
+      "name": "DemonicArmorHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "DemonicArmorHelmetTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "DemonicArmorHelmetTickEvent"
+    },
+    "onBootsTick": {
+      "name": "DemonicArmorHelmetTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:DemonicSwordItems"
+    },
+    "armorTextureFile": "demonic_armor_layer_1",
+    "helmetName": "Demonic Helmet",
+    "bodyName": "Demonic Body",
+    "leggingsName": "Demonic Leggings",
+    "bootsName": "Demonic Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 1024,
+    "damageValueHelmet": 750,
+    "damageValueBody": 750,
+    "damageValueLeggings": 750,
+    "damageValueBoots": 750,
+    "enchantability": 30,
+    "toughness": 10.0,
+    "knockbackResistance": 0.3,
+    "equipSound": {
+      "value": "ambient.cave"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:ReinforcedDemonicBlock"
+      }
+    ]
+  }
+}

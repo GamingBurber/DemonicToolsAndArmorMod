@@ -1,0 +1,34 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "my_sword",
+    "customModelName": "Normal",
+    "name": "Demonic Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DemonicSwordItems"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 5.0,
+    "enchantability": 30,
+    "damageVsEntity": 150.0,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:DemonicIngotBlock"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false,
+    "onRightClickedOnBlock": {
+      "name": "DemonicSwordRightClickedOnBlock"
+    }
+  }
+}

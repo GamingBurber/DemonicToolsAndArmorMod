@@ -1,0 +1,12 @@
+{
+  "group": "demonic_sword",
+  "type": "minecraft:smelting",
+  "experience": 10,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "demonic_sword:demonic_nether_ore"
+  },
+  "result": {
+    "item": "demonic_sword:demonic_ingot"
+  }
+}

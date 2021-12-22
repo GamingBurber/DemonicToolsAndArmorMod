@@ -1,0 +1,479 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "DemonicSword",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_sword"
+    },
+    {
+      "name": "FromTheDepths",
+      "type": "achievement",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "from_the_depths"
+    },
+    {
+      "name": "DemonicSwordRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_sword_recipe"
+    },
+    {
+      "name": "DemonicIngot",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_ingot",
+      "path": "~/MaterialsForDemonicSword"
+    },
+    {
+      "name": "DemonicPole",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_pole",
+      "path": "~/MaterialsForDemonicSword"
+    },
+    {
+      "name": "DemonicBlade",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_blade",
+      "path": "~/MaterialsForDemonicSword"
+    },
+    {
+      "name": "DemonicPoleRecipie",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_pole_recipie",
+      "path": "~/Recipies"
+    },
+    {
+      "name": "ReinforcedDemonicIngot",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_demonic_ingot",
+      "path": "~/MaterialsForDemonicSword"
+    },
+    {
+      "name": "DemonicBladeRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_blade_recipe",
+      "path": "~/Recipies"
+    },
+    {
+      "name": "ReinforcedDemonicIngotRecipie",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_demonic_ingot_recipie",
+      "path": "~/Recipies"
+    },
+    {
+      "name": "DemonicIngotRecipie",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_ingot_recipie",
+      "path": "~/Recipies"
+    },
+    {
+      "name": "DemonicIngotBlock",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_ingot_block"
+    },
+    {
+      "name": "DemonicIngotBlockRecipie",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_ingot_block_recipie",
+      "path": "~/Recipies"
+    },
+    {
+      "name": "DemonicSwordItems",
+      "type": "tab",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_sword_items"
+    },
+    {
+      "name": "DemonicSwordRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_sword_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DemonicNetherOre",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_nether_ore"
+    },
+    {
+      "name": "DemonicArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/DemonicItemsAndArmor"
+    },
+    {
+      "name": "ReinforcedDemonicBlock",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_demonic_block",
+      "path": "~/DemonicItemsAndArmor"
+    },
+    {
+      "name": "ReinforedDemonicBlockRecipie",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinfored_demonic_block_recipie",
+      "path": "~/DemonicItemsAndArmor/Recipies"
+    },
+    {
+      "name": "DemonicPickaxe",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_pickaxe",
+      "path": "~/DemonicItemsAndArmor/Tools"
+    },
+    {
+      "name": "MadeDemonicPickaxe",
+      "type": "achievement",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "made_demonic_pickaxe",
+      "path": "~/DemonicItemsAndArmor/Tools/Advancements"
+    },
+    {
+      "name": "DemonicAxe",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_axe",
+      "path": "~/DemonicItemsAndArmor/Tools"
+    },
+    {
+      "name": "DemonicPickaxeRecipies",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_pickaxe_recipies",
+      "path": "~/DemonicItemsAndArmor/Recipies"
+    },
+    {
+      "name": "DemonicAxeRecipie",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_axe_recipie",
+      "path": "~/DemonicItemsAndArmor/Recipies"
+    },
+    {
+      "name": "DemonicShovel",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_shovel",
+      "path": "~/DemonicItemsAndArmor/Tools"
+    },
+    {
+      "name": "DemonicHoe",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_hoe",
+      "path": "~/DemonicItemsAndArmor/Tools"
+    },
+    {
+      "name": "DemonicShovelRecipie",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_shovel_recipie",
+      "path": "~/DemonicItemsAndArmor/Recipies"
+    },
+    {
+      "name": "DemonicHoeRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_hoe_recipe",
+      "path": "~/DemonicItemsAndArmor/Recipies"
+    },
+    {
+      "name": "MadeDemonicAxe",
+      "type": "achievement",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "made_demonic_axe",
+      "path": "~/DemonicItemsAndArmor/Tools/Advancements"
+    },
+    {
+      "name": "MadeDemonicShovel",
+      "type": "achievement",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "made_demonic_shovel",
+      "path": "~/DemonicItemsAndArmor/Tools/Advancements"
+    },
+    {
+      "name": "MadeDemonicHoe",
+      "type": "achievement",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "made_demonic_hoe",
+      "path": "~/DemonicItemsAndArmor/Tools/Advancements"
+    },
+    {
+      "name": "DemonicArmorHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_armor_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DemonicHelmetRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_helmet_recipe",
+      "path": "~/DemonicItemsAndArmor/Recipies"
+    },
+    {
+      "name": "DemonicChestplateRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_chestplate_recipe",
+      "path": "~/DemonicItemsAndArmor/Recipies"
+    },
+    {
+      "name": "DemonicLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_leggings_recipe",
+      "path": "~/DemonicItemsAndArmor/Recipies"
+    },
+    {
+      "name": "DemonicBootsRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonic_boots_recipe",
+      "path": "~/DemonicItemsAndArmor/Recipies"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.demonic_sword.reinforced_demonic_block": "Reinforced Demonic Block",
+      "item.demonic_sword.demonic_sword": "Demonic Sword",
+      "item.demonic_sword.demonic_armor_helmet": "Demonic Helmet",
+      "item.demonic_sword.demonic_hoe": "Demonic Hoe",
+      "block.demonic_sword.demonic_nether_ore": "Demonic Nether Ore",
+      "itemGroup.tabdemonic_sword_items": "Demonic Stuff",
+      "item.demonic_sword.demonic_pole": "Demonic Pole",
+      "advancements.from_the_depths.title": "From The Depths",
+      "advancements.from_the_depths.descr": "You have created something unholy...",
+      "item.demonic_sword.demonic_armor_chestplate": "Demonic Body",
+      "advancements.made_demonic_hoe.descr": "Why have you done this??",
+      "advancements.made_demonic_shovel.title": "A Very Scary Shovel",
+      "item.demonic_sword.demonic_ingot": "Demonic Ingot",
+      "advancements.made_demonic_hoe.title": "UNHOLY POWER!",
+      "item.demonic_sword.demonic_pickaxe": "Demonic Pickaxe",
+      "item.demonic_sword.demonic_blade": "Demonic Blade",
+      "advancements.made_demonic_axe.title": "Pain",
+      "item.demonic_sword.demonic_armor_boots": "Demonic Boots",
+      "item.demonic_sword.demonic_shovel": "Demonic Shovel",
+      "item.demonic_sword.reinforced_demonic_ingot": "Reinforced Demonic Ingot",
+      "item.demonic_sword.demonic_armor_leggings": "Demonic Leggings",
+      "advancements.made_demonic_shovel.descr": "Made a Demonic Shovel",
+      "block.demonic_sword.demonic_ingot_block": "Demonic Ingot Block",
+      "advancements.made_demonic_pickaxe.descr": "Created A Demonic Miner Pickaxe",
+      "advancements.made_demonic_axe.descr": "You can feel it\u0027s pain.",
+      "item.demonic_sword.demonic_axe": "Demonic Axe",
+      "advancements.made_demonic_pickaxe.title": "Don\u0027t Continue"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "MaterialsForDemonicSword",
+        "children": []
+      },
+      {
+        "name": "Recipies",
+        "children": []
+      },
+      {
+        "name": "DemonicItemsAndArmor",
+        "children": [
+          {
+            "name": "Recipies",
+            "children": []
+          },
+          {
+            "name": "Tools",
+            "children": [
+              {
+                "name": "Advancements",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Armor Advancments",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "demonic_sword",
+    "modName": "Demonic Armor And Tools",
+    "version": "1.0.0",
+    "description": "Adds a Demonic Sword and the stuff to make it.  Right click with the sword in your hand to spawn fire. And now with demonic armor, your too can bask in the blood of your enimies!!",
+    "author": "GamingBurber",
+    "websiteURL": "https://mcreator.net",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Made by GamingBurber. YT: https://tinyurl.com/BurberYT",
+    "modElementsPackage": "net.mcreator.demonicsword",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

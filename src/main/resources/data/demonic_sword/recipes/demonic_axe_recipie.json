@@ -1,0 +1,30 @@
+{
+  "group": "demonic_sword",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "demonic_sword:reinforced_demonic_ingot"
+    },
+    "1": {
+      "item": "demonic_sword:reinforced_demonic_ingot"
+    },
+    "2": {
+      "item": "demonic_sword:reinforced_demonic_ingot"
+    },
+    "3": {
+      "item": "demonic_sword:demonic_pole"
+    },
+    "5": {
+      "item": "demonic_sword:demonic_pole"
+    }
+  },
+  "result": {
+    "item": "demonic_sword:demonic_axe",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="demonic_sword"
+version="1.0.0"
+displayName="Demonic Armor And Tools"
+credits="Made by GamingBurber. YT: https://tinyurl.com/BurberYT"
+displayURL="https://mcreator.net"
+authors="GamingBurber"
+description='''
+Adds a Demonic Sword and the stuff to make it.  Right click with the sword in your hand to spawn fire. And now with demonic armor, your too can bask in the blood of your enimies!!
+'''
+
+[[dependencies.demonic_sword]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

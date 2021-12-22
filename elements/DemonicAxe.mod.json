@@ -1,0 +1,33 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "demonic_axe",
+    "customModelName": "Normal",
+    "name": "Demonic Axe",
+    "specialInfo": [
+      "Unholy"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:DemonicSwordItems"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 5,
+    "efficiency": 30.0,
+    "attackSpeed": 3.0,
+    "enchantability": 30,
+    "damageVsEntity": 15.0,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:ReinforcedDemonicIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

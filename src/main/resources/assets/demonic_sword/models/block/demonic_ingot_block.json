@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "demonic_sword:blocks/demonicblock",
+    "up": "demonic_sword:blocks/demonicblock",
+    "north": "demonic_sword:blocks/demonicblock",
+    "east": "demonic_sword:blocks/demonicblock",
+    "south": "demonic_sword:blocks/demonicblock",
+    "west": "demonic_sword:blocks/demonicblock",
+    "particle": "demonic_sword:blocks/demonicblock"
+  }
+}
